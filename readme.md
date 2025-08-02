@@ -1,6 +1,6 @@
 # Simple AI ChatBot
 
-The Simple AI ChatBot is a learning AI Agent that provides your with information pertaining to your business.
+The Simple AI ChatBot is a learning AI Agent that provides you with information pertaining to your business.
 
 ![github profile screenshot](img/GITHUB_SIMPLE_AI_CHATBOT.png)
 
